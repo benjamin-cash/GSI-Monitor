@@ -16,7 +16,7 @@
 #
 #   The supported directory structures are:
 #      Operations:  $tankdir/$net/version/$run.$pdy/$hh/atmos/$monitor
-#      Workflow  :  $tankdir/$net/$fun.$pdy/$hh/products/atmos/$monitor
+#      Workflow  :  $tankdir/$net/$run.$pdy/$hh/products/atmos/$monitor
 #      Monitors* :  $tankdir/stats/$net/$run.$pdy/$hh/$monitor
 #
 #   The get_stats_path.sh script will be used to find a valid path from 
